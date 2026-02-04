@@ -1,19 +1,13 @@
 Hi, I'm Timothy!
 
 ### About me
-I am a Computer Science student at UC San Diego, currently one quarter away from graduation (and also unemployment), expanding my knowledge in. I have experience as a data analyst and engineer at  
-
+I am a recent Computer Science graudate from UC San Diego with hands-on experience in data engineering and software engineering. Currently seeking an entry-level position to contribute to data-driven production systems.
 
 ## Background
-A senior student from Hong Kong, majoring in Computer Science at UC San Diego. Deeply interested in 
-
-## Recent Employment
-I am working as an AV technician at UCSD. I operate and maintain classroom A/V systems, ensuring lectures are delivered seamlessly in-perosn and on Zoom.
+A senior student from Hong Kong, majoring in Computer Science at UC San Diego.
 
 ## Recent Projects/ Employment
-- Building a machine learning model to predict NBA games' outcome.
-- Keeping my skillset sharp through online courses at DataCamp.
-- I am working as an AV technician at UCSD.
+- Building recommender system that helps users choose places to go to based on their intent
 
 ## Links
 [Linkedln](https://www.linkedin.com/in/wai-taing-lam-417a43227/)
