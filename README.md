@@ -7,7 +7,7 @@ I am a recent Computer Science graudate from UC San Diego with hands-on experien
 A senior student from Hong Kong, majoring in Computer Science at UC San Diego.
 
 ## Recent Projects/ Employment
-- Building recommender system that helps users choose places to go to based on their intent
+- Building ModeMap, a location-based recommendation platform that suggests nearby venues based on user intent, distance, and real-time availability.
 
 ## Links
 [Linkedln](https://www.linkedin.com/in/wai-taing-lam-417a43227/)
